@@ -1,0 +1,5 @@
+<%= form_tag(controller: "calculator", action: "calculate") do %>
+  <%= label_tag :q, "Input: "%>
+  <%= text_field_tag :q, @formula %>
+  <%= submit_tag "Calculate"%>
+<% end %>
