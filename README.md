@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pull down this app and run it locally. This will allow you to win all those facebook posts where people can't seem to figure out the correct order of mathematical operations. 
 
-Things you may want to cover:
+could I have saved myself a ton of trouble by just running eval() on the input? Yes, but that is terrible. Please don't ever put eval() in your code unless you call and clear it with me first. At least not on user input. Thanks!
 
-* Ruby version
+* Ruby version - ruby 2.3.1p112
 
-* System dependencies
+* Rails versin - Rails 5.0.1
 
 * Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
 * Deployment instructions
-
-* ...
